@@ -11,3 +11,10 @@ Deleted path\to\backup_file.vbk  at 06/26/2021 22:00:01, size: 453.356491088867 
 ```
 
 Works fine with Powershell 7.2.0 and Windows 10 21H1
+
+## clear_windows_update_cache.ps1
+
+This script clears and resets the Windows update cache
+It also should remove pending or failing updates from showing up
+
+ Works fine with Powershell 7.4.3 and Windows 10 22H2
